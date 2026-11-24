@@ -1,3 +1,10 @@
 <img width="1370" height="187" alt="Screenshot 2026-11-23 at 9 22 46 PM" src="https://github.com/user-attachments/assets/8a481cc8-b336-4af6-828f-7500656cf610" />
-# Pokemon-GO-Supprise-Box
-A more complete design of a Pokemon Go Gift box with acutal hardware. This project will include an imbeded NFC tag which links to a personal website, a melody device, a programmable LED, and launches out little cards from the side.
+
+CENTERED FINISHED VIDEO TIMELAPSE HERE
+
+
+<img width="1339" height="182" alt="Screenshot 2026-11-23 at 10 01 57 PM" src="https://github.com/user-attachments/assets/c86cb9d4-b246-44c7-a53f-846db9976404" />
+
+I was working on a large-scale hardware project at the time, which I enjoyed; however, due to its complexity, I found myself frustrated, and I stopped to take a break and work on creating a small trinket that I could hand out to friends. But once I started coming up with the idea and making a model in CAD, I found myself really enjoying it. In turn, I decided to transition away from my other project and come back to it later, instead deciding to commit to this fully. I landed on this because I have such memories of playing this game when I was a kid with friends, and I always loved the style of the gift and the concept of how it was implemented in the game. Also, I think what’s really fun about this is the multiple little features that are offered. From the NFC tag, which gave me the chance to use such a cool piece of technology and allowed me to work on creating a personal website, I was able to learn everything from HTML to Java to graphic designing. It was also cool to improve with KiCad and to work on the more technical aspects. 
+
+
