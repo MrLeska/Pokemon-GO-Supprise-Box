@@ -15,4 +15,5 @@ I was working on a large-scale hardware project at the time, which I enjoyed; ho
 
 <img width="1210" height="163" alt="Screenshot 2026-11-23 at 10 36 00 PM" src="https://github.com/user-attachments/assets/b1455f77-5663-4309-bbfe-16a4d20294d6" />
 
-<img width="544" height="586" alt="Screenshot 2026-11-23 at 10 40 32 PM" src="https://github.com/user-attachments/assets/46f452ca-46fb-4903-adcd-ebab5ed5f3b4" />
+<img width="1004" height="796" alt="Screenshot 2026-11-24 at 4 21 30 PM" src="https://github.com/user-attachments/assets/d6406c66-cbda-46f7-ae6e-ed953402825c" />
+
