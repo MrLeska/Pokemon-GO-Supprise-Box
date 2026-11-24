@@ -1,8 +1,9 @@
+
 <img width="1370" height="187" alt="Screenshot 2026-11-23 at 9 22 46 PM" src="https://github.com/user-attachments/assets/8a481cc8-b336-4af6-828f-7500656cf610" />
 
 CENTERED FINISHED VIDEO TIMELAPSE HERE
 
-<img width="1100" height="150" alt="Screenshot 2026-11-23 at 11 06 57 PM" src="https://github.com/user-attachments/assets/226dd0cc-0063-4a2a-9e13-e16557995400" />
+<img width="1370" height="190" alt="Screenshot 2026-11-23 at 11 15 59 PM" src="https://github.com/user-attachments/assets/5257a017-ea54-4c0d-bb9e-bc9e03926e92" />
 This ia a small Pokemon Go gift box with multiple different hardware features included inside. I designed this project for the Fallen challenge, and wanted to make something fun that I would be able to showcase. The project includes an NFC tag that is linked to a custom made personal webside, LED lights with reactive features, a music box built inside, and a dispenser that edjects little trinkets. 
 <img width="1339" height="182" alt="Screenshot 2026-11-23 at 10 01 57 PM" src="https://github.com/user-attachments/assets/c86cb9d4-b246-44c7-a53f-846db9976404" />
 
