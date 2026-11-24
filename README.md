@@ -17,3 +17,5 @@ I was working on a large-scale hardware project at the time, which I enjoyed; ho
 
 <img width="1004" height="796" alt="Screenshot 2026-11-24 at 4 21 30 PM" src="https://github.com/user-attachments/assets/d6406c66-cbda-46f7-ae6e-ed953402825c" />
 
+<img width="1331" height="179" alt="Screenshot 2026-11-24 at 5 20 33 PM" src="https://github.com/user-attachments/assets/33729cd0-2e52-44aa-a22d-7c78c8547357" />
+
