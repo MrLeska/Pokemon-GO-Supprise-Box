@@ -25,3 +25,4 @@ I was working on a large-scale hardware project at the time, which I enjoyed; ho
 
 <img width="1331" height="179" alt="Screenshot 2026-11-24 at 5 20 33 PM" src="https://github.com/user-attachments/assets/33729cd0-2e52-44aa-a22d-7c78c8547357" />
 
+<img width="911" height="337" alt="Screenshot 2026-11-26 at 1 27 08 AM" src="https://github.com/user-attachments/assets/93b96325-9f2b-40f5-a2b1-9764688d5274" />
